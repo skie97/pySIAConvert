@@ -1,2 +1,2 @@
-# Simple python app to convert SIA rooster to ics
+# Simple python app to convert xls roster to ics
 
